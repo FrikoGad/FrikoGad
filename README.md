@@ -10,7 +10,7 @@ email: goliaf551@gmail.com
 
 telegram: @frikogad
 
-Thank you for visiting my GitHub page!
+Thank you for visiting my GitHub page 😊
 
 
 <!--
