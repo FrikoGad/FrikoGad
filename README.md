@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a beginner Android developer📱
-I'm based in Saint Petersburg, Russia🏰
-Currently looking for job💻
-I will be glad for any conversations💬
+I'm a beginner Android developer 📱  
+I'm based in Saint Petersburg, Russia 🏰  
+Currently looking for job 💻  
+I will be glad for any conversations 💬  
 How you can contact me:
 
 email: goliaf551@gmail.com
