@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a junior Automation QA  engineer 🔧  
+I'm an Engineer 🔧  
 I'm based in Saint Petersburg, Russia 🏰  
 Currently looking for job 💻  
 I will be glad for any conversations 💬  
