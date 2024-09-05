@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm an Engineer 🔧  
+I'm an Python developer 💻  
 I'm based in Saint Petersburg, Russia 🏰  
-Currently looking for job 💻  
+Currently looking for job 👀
 I will be glad for any conversations 💬  
 How you can contact me:
 
